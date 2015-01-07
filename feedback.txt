@@ -1,0 +1,13 @@
+What was the best part of this assignment?
+-- Making stuff finally compile.
+
+What was the worst part of this assignment?
+-- Having to make all of the views by hand.
+-- Why do we have to make multiple views by hand? I can get everything working in one view just perfectly fine!
+
+What could be done to make this assignment better?
+-- Give us more time to do it.
+-- Give us more starter code - sure, the stuff given works great, but I don't necessarily know what to do with it, and I don't know why I need it.
+-- Give us a better starting point for what to build - the entirety of the game is actually really tough, as it kind of overlaps between the first/second assignment of "everything creative" *game* to "rigidly designed" *screensaver*.
+-- I had to figure out way too much about what I was doing - if we had a better idea of how to code the layouts i wouldn't be spending 5 hours building a simple 20-minute layout.
+
