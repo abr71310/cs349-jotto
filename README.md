@@ -3,7 +3,7 @@
 The Jotto game I made for CS349 (Fall 2014 iteration). Built in ~9 hours from just the Word and WordList Java starter classes (MVC built from scratch)
 
 ## README - Michael Shao - Last updated: November 7, 2014 - V0.9.0.0.3.1.13
-==========================================================
+
 ### Basic Compilation & Running the Application
 `make run` makes the proper files and targets, then runs the main game (found in jotto)
 
@@ -27,9 +27,9 @@ The Jotto game I made for CS349 (Fall 2014 iteration). Built in ~9 hours from ju
 - Press the hint buttons if you get stuck.
 
 #### Three views to note:
-ResponseView - Past guesses, partial and exact matches.
-GuessView - allow user to input guesses, and do stuff regarding that.
-JottoViewer - kind of like a hints section; has letters guessed, as well as how many guesses remain
+- ResponseView - Past guesses, partial and exact matches.
+- GuessView - allow user to input guesses, and do stuff regarding that.
+- JottoViewer - kind of like a hints section; has letters guessed, as well as how many guesses remain
 
 ### Random other notes
 
